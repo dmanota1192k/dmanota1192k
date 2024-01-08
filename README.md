@@ -26,6 +26,8 @@ Open to collaborations, freelance opportunities, and interesting projects. Feel 
 - [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/deepanshu-manota-296303262/))
 - [Personal Portfolio](Workingonit)
 
+
+Author - DM
 <!---
 dmanota1192k/dmanota1192k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
